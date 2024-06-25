@@ -1,3 +1,13 @@
-venv
-.idea
+# Ignore virtual environment directories
+venv/
+env/
+ENV/
+venv.bak/
+# Ignore the .idea directory (PyCharm project settings)
+.idea/
+
+# Ignore the __pycache__/
+__pycache__/
+
+#other files
 main.py
