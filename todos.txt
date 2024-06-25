@@ -1,0 +1,4 @@
+clean all app
+purchase a new servers
+go back
+manage time
